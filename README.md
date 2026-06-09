@@ -1,57 +1,120 @@
-# Hey, I'm Andrey 👋
+<div align="center">
 
-```ts
-const andrey = {
-  role: "Backend-Focused Developer",
-  education: "Software Engineering Student",
-  currentFocus: [
-    "Scalable Backend Systems",
-    "Mobile Development",
-    "Database Design",
-    "API Architecture"
-  ],
-  technologies: {
-    backend: [
-      "Node.js",
-      "Express",
-      "Supabase",
-      "MongoDB"
-    ],
-    mobile: [
-      "React Native",
-      "Expo"
-    ],
-    languages: [
-      "TypeScript",
-      "JavaScript",
-      "Python",
-      
-    ],
-    tools: [
-      "Git",
-      "GitHub",
-      "Postman"
-    ]
-  }
-};
+# ALZZ ⚡
 
+### Backend-Focused Developer | Software Engineering Student
 
-About Me
+Building scalable applications with modern technologies.
 
-I'm a Software Engineering student with a strong focus on backend development.
+</div>
 
-I enjoy designing APIs, working with databases, solving complex problems, and building applications that can scale beyond simple prototypes.
+---
 
-While my main interest is backend engineering, I also develop cross-platform mobile applications using React Native and Expo.
+## 👨‍💻 About Me
 
-Currently focused on improving my software architecture, system design, and real-world development skills.
+I'm a Software Engineering student passionate about backend development, software architecture, and building real-world applications.
 
-Current Projects:
+My main focus is designing APIs, working with databases, and creating systems that are maintainable and scalable. While backend development is my specialty, I also build cross-platform mobile applications using React Native and Expo.
 
-🚀 App Kumina
+Currently improving my skills in software architecture, system design, and modern backend technologies.
 
-📱 Mobile applications with React Native & Expo
+---
 
-⚡ Backend systems powered by Supabase & MongoDB
+## 🚀 Current Focus
 
-🧠 Exploring AI integration in modern applications
+- Backend Development
+- API Architecture
+- Database Design
+- Mobile Development
+- Software Engineering
+- System Design
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+
+### Mobile
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white)
+
+### Languages
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+
+---
+
+## 📌 Featured Project
+
+### Kumina 2.0
+
+Modern mobile application focused on usability, scalability and continuous improvement.
+
+**Tech Stack**
+- React Native
+- Expo
+- TypeScript
+- Supabase
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+- Build production-ready applications
+- Improve software architecture skills
+- Master backend development
+- Contribute to open source
+- Launch larger-scale projects
+
+---
+
+## 💡 Philosophy
+
+> Build things.
+>
+> Learn from mistakes.
+>
+> Improve every version.
+>
+> Repeat.
+
+---
+
+<div align="center">
+
+### Thanks for visiting 👋
+
+Always building something.
+
+</div>
