@@ -40,7 +40,7 @@ Currently improving my skills in software architecture, system design, and moder
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 
-### Mobile
+### Mobile Development
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white)
@@ -49,6 +49,8 @@ Currently improving my skills in software architecture, system design, and moder
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 
 ### Tools
 
@@ -60,7 +62,7 @@ Currently improving my skills in software architecture, system design, and moder
 
 ## 📌 Featured Project
 
-### Kumina 2.0
+### Kumina v2.0
 
 Modern mobile application focused on usability, scalability and continuous improvement.
 
@@ -68,6 +70,7 @@ Modern mobile application focused on usability, scalability and continuous impro
 - React Native
 - Expo
 - TypeScript
+- Python
 - Supabase
 
 ---
@@ -75,19 +78,13 @@ Modern mobile application focused on usability, scalability and continuous impro
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ALZZx1&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALZZx1&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🔥 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night"/>
-</p>
-
----
 
 ## 🎯 2026 Goals
 
