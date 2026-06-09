@@ -10,7 +10,7 @@ Building scalable applications with modern technologies.
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm a Software Engineering student passionate about backend development, software architecture, and building real-world applications.
 
@@ -20,7 +20,7 @@ Currently improving my skills in software architecture, system design, and moder
 
 ---
 
-## 🚀 Current Focus
+##  Current Focus
 
 - Backend Development
 - API Architecture
@@ -31,7 +31,7 @@ Currently improving my skills in software architecture, system design, and moder
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Backend
 
@@ -60,7 +60,7 @@ Currently improving my skills in software architecture, system design, and moder
 
 ---
 
-## 📌 Featured Project
+##  Featured Project
 
 ### Kumina v2.0
 
@@ -75,7 +75,7 @@ Modern mobile application focused on usability, scalability and continuous impro
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ALZZx1&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -86,7 +86,7 @@ Modern mobile application focused on usability, scalability and continuous impro
 
 
 
-## 🎯 2026 Goals
+##  2026 Goals
 
 - Build production-ready applications
 - Improve software architecture skills
@@ -96,7 +96,7 @@ Modern mobile application focused on usability, scalability and continuous impro
 
 ---
 
-## 💡 Philosophy
+##  Philosophy
 
 > Build things.
 >
